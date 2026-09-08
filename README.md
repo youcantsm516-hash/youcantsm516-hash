@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Alex 👋
+
+## About Me
+
+I'm a developer interested in **web development** and *AI*.
+
+### Technologies
+
+- JavaScript
+- Python
+- React
+- Redux
+- NextJS
+- NodeJS
+- Express
+- MongoDB
+
+> Currently working on something cool!
+
+[🌐 My Website]()
