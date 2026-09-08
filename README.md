@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Alex 👋
-
 ## About Me
 
 I'm a developer interested in **web development** and *AI*.
