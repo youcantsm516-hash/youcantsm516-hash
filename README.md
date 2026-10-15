@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-An EE student with interests in more than just system design but also **web development** and *AI*.
+An EE student with interests in more than just building and programming electric circuits but also **web development** and *AI*.
 
 ### Technologies
 
