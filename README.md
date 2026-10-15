@@ -37,7 +37,8 @@ An EE student with interests in more than just system design but also **web deve
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+# AND MANY MORE
 
-> Continuing to grow and add more technology !
+> Continuing to grow and adding more technologies !
 
 [🌐 My Website](https://portfolio-liart-omega-ewvegpl06h.vercel.app/)
